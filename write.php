@@ -51,7 +51,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <!-- <h2>./data/data.txt を確認しましょう！</h2> -->
 
 <ul>
-<li><a href="input.php">戻る</a></li>
+<li><a href="post.php">戻る</a></li>
 <li><a href="read.php">MBTIタイプのグラフを表示する</a></li> 
 </ul>
 </body>
